@@ -54,9 +54,9 @@ void RGB_conf(led_RGB *led_RGB){
 void RGB_set_color(led_RGB *led_RGB,float R, float  G, float B){
         
         /*Convert percentage (0.0-100.0) to duty cycle (0-255 for 8-bit resolution) for each channel*/
-        int duty_R=(R/100)*(1<<8);
-        int duty_G=(G/100)*(1<<8);
-        int duty_B=(B/100)*(1<<8);
+        int duty_R=(R/100)*(1<<led_RGB->duty_resolution);
+        int duty_G=(G/100)*(1<<led_RGB->duty_resolution);
+        int duty_B=(B/100)*(1<<led_RGB->duty_resolution);
         /*Set and update the RED channel duty cycle*/
         ledc_set_duty(led_RGB->speed_mode, led_RGB->R_channel, duty_R);
         ledc_update_duty(led_RGB->speed_mode, led_RGB->R_channel);
