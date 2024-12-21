@@ -1,7 +1,5 @@
 #include "LED_RGB.h"
-#include "driver/ledc.h"
-#include "freertos/FreeRTOS.h"
-#include "esp_err.h"
+
 
 
 void RGB_conf(led_RGB *led_RGB){

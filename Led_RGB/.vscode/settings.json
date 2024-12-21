@@ -11,7 +11,7 @@
     "idf.openOcdConfigs": [
         "board/esp32-wrover-kit-3.3v.cfg"
     ],
-    "idf.portWin": "COM3",
+    "idf.portWin": "COM4",
     "idf.pythonBinPathWin": "d:\\Juan\\semestre_8\\rts\\esp_idf\\.espressif\\python_env\\idf5.3_py3.11_env\\Scripts\\python.exe",
     "idf.toolsPathWin": "d:\\Juan\\semestre_8\\rts\\esp_idf\\.espressif",
     "files.associations": {

@@ -2,6 +2,9 @@
 #define LED_RGB_H
 
 #include "driver/ledc.h"
+#include "driver/ledc.h"
+#include "freertos/FreeRTOS.h"
+#include "esp_err.h"
 
 /**
  * @brief Configuration parameters of LEDRGB channels and timer for LED RGB_config function
