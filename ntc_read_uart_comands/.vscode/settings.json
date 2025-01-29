@@ -1,0 +1,20 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "d:\\Juan\\semestre_8\\rts\\esp_idf\\v5.3.1\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM3",
+    "idf.toolsPathWin": "d:\\Juan\\semestre_8\\rts\\esp_idf\\.espressif",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "stdlib.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "uart_lib.h": "c",
+        "complex": "c",
+        "format": "c",
+        "esp_log.h": "c",
+        "system_error": "c"
+    }
+}

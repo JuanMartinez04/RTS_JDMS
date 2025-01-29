@@ -1,0 +1,1 @@
+CMake Error: The current CMakeCache.txt directory D:/Juan/semestre_8/rts/Projects/RTS_JDMS/ntc_read_uart_comands/CMakeCache.txt is different than the directory d:/Juan/semestre_8/rts/Projects/ntc_read_uart_comands where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
