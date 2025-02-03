@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 09fc20ccb1711ed3ebb15e3c7f945dd2bdd4e1d3 GIT_JuanMartínez <124936337+JuanMartinez04@users.noreply.github.com> 1733175557 -0500	clone: from https://github.com/JuanMartinez04/RTS_JDMS.git
+09fc20ccb1711ed3ebb15e3c7f945dd2bdd4e1d3 8f402b5cfe169c8a8aea76aaa493cde27e39194a JuanMartinez04 <juamartinezs@unal.edu.co> 1733177386 -0500	commit: Feat: Add a new project for LED status control using a button as an interrupt
+8f402b5cfe169c8a8aea76aaa493cde27e39194a cf864cac41f7a0e4e2766cd7468f448100b839a0 JuanMartinez04 <juamartinezs@unal.edu.co> 1733345341 -0500	commit: Feat:Added new project for LED blinking control via button and tasks.
+cf864cac41f7a0e4e2766cd7468f448100b839a0 12af87a82ba255b2818c6c86a66cfe831dc3040c JuanMartinez04 <juamartinezs@unal.edu.co> 1733838784 -0500	commit: feat: Add LED RGB control library
+12af87a82ba255b2818c6c86a66cfe831dc3040c 5a737c653c912c780e0b31a5d5232240b3845cfc JuanMartinez04 <juamartinezs@unal.edu.co> 1733948747 -0500	commit: refactor: Update RGB_set_color to calculate duty cycle based on timer resolution
+5a737c653c912c780e0b31a5d5232240b3845cfc 103a3486b528da204f2a2b6b20e410a59070d4ae JuanMartinez04 <juamartinezs@unal.edu.co> 1734743381 -0500	commit: feat: Add new project to control RGB LED intensity using ADC readings
+103a3486b528da204f2a2b6b20e410a59070d4ae 5f6b863a48116a06ad5e7ec3f5fe62b1e86a1934 JuanMartinez04 <juamartinezs@unal.edu.co> 1734743867 -0500	commit: feat: implement button to enable RGB LED blinking
+5f6b863a48116a06ad5e7ec3f5fe62b1e86a1934 b00b487d3e346e33b2332e4318cddec5d760957d JuanMartinez04 <juamartinezs@unal.edu.co> 1738125710 -0500	commit: Added a new project for temperature sensing with NTC and RGB LED control via UART
